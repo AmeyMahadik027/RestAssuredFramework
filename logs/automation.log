@@ -1,0 +1,56 @@
+00:31:15.839 [main] INFO  api.test.UserTest - ***************Creating User**********************
+00:31:16.963 [main] INFO  api.test.UserTest - ***************User Created**********************
+00:31:16.967 [main] INFO  api.test.UserTest - ***************Reading User Info**********************
+00:31:18.133 [main] INFO  api.test.UserTest - ***************Updating User Info**********************
+00:31:19.256 [main] INFO  api.test.UserTest - ***************User Info Updated**********************
+00:31:20.362 [main] INFO  api.test.UserTest - ***************Deleting User**********************
+00:31:21.444 [main] INFO  api.test.UserTest - ***************User Deleted**********************
+13:35:59.623 [main] INFO  api.test.UserTestThroughPropertiesFile - ***************Creating User**********************
+13:36:01.523 [main] INFO  api.test.UserTestThroughPropertiesFile - ***************User Created**********************
+13:36:01.528 [main] INFO  api.test.UserTestThroughPropertiesFile - ***************Reading User Info**********************
+13:36:02.693 [main] INFO  api.test.UserTestThroughPropertiesFile - ***************Updating User Info**********************
+13:36:03.817 [main] INFO  api.test.UserTestThroughPropertiesFile - ***************User Info Updated**********************
+13:36:04.876 [main] INFO  api.test.UserTestThroughPropertiesFile - ***************Deleting User**********************
+13:36:05.965 [main] INFO  api.test.UserTestThroughPropertiesFile - ***************User Deleted**********************
+13:45:18.528 [main] INFO  api.test.UserTest - ***************Creating User**********************
+13:45:19.613 [main] INFO  api.test.UserTest - ***************User Created**********************
+13:45:19.615 [main] INFO  api.test.UserTest - ***************Reading User Info**********************
+13:45:20.734 [main] INFO  api.test.UserTest - ***************Updating User Info**********************
+13:45:21.802 [main] INFO  api.test.UserTest - ***************User Info Updated**********************
+13:45:22.896 [main] INFO  api.test.UserTest - ***************Deleting User**********************
+13:45:24.093 [main] INFO  api.test.UserTest - ***************User Deleted**********************
+13:48:31.147 [main] INFO  api.test.UserTest - ***************Creating User**********************
+13:48:32.272 [main] INFO  api.test.UserTest - ***************User Created**********************
+13:48:32.274 [main] INFO  api.test.UserTest - ***************Reading User Info**********************
+13:48:33.354 [main] INFO  api.test.UserTest - ***************Updating User Info**********************
+13:48:34.474 [main] INFO  api.test.UserTest - ***************User Info Updated**********************
+13:48:35.565 [main] INFO  api.test.UserTest - ***************Deleting User**********************
+13:48:36.651 [main] INFO  api.test.UserTest - ***************User Deleted**********************
+13:49:58.179 [main] INFO  api.test.UserTestThroughPropertiesFile - ***************Creating User**********************
+13:50:00.198 [main] INFO  api.test.UserTestThroughPropertiesFile - ***************User Created**********************
+13:50:00.203 [main] INFO  api.test.UserTestThroughPropertiesFile - ***************Reading User Info**********************
+13:50:01.333 [main] INFO  api.test.UserTestThroughPropertiesFile - ***************Updating User Info**********************
+13:50:02.400 [main] INFO  api.test.UserTestThroughPropertiesFile - ***************User Info Updated**********************
+13:50:03.513 [main] INFO  api.test.UserTestThroughPropertiesFile - ***************Deleting User**********************
+13:50:04.592 [main] INFO  api.test.UserTestThroughPropertiesFile - ***************User Deleted**********************
+13:51:26.139 [main] INFO  api.test.UserTest - ***************Creating User**********************
+13:51:27.228 [main] INFO  api.test.UserTest - ***************User Created**********************
+13:51:27.230 [main] INFO  api.test.UserTest - ***************Reading User Info**********************
+13:51:28.287 [main] INFO  api.test.UserTest - ***************Updating User Info**********************
+13:51:29.383 [main] INFO  api.test.UserTest - ***************User Info Updated**********************
+13:51:30.494 [main] INFO  api.test.UserTest - ***************Deleting User**********************
+13:51:31.590 [main] INFO  api.test.UserTest - ***************User Deleted**********************
+14:33:40.348 [main] INFO  api.test.UserTestThroughPropertiesFile - ***************Creating User**********************
+14:33:42.153 [main] INFO  api.test.UserTestThroughPropertiesFile - ***************User Created**********************
+14:33:42.158 [main] INFO  api.test.UserTestThroughPropertiesFile - ***************Reading User Info**********************
+14:33:43.262 [main] INFO  api.test.UserTestThroughPropertiesFile - ***************Updating User Info**********************
+14:33:44.362 [main] INFO  api.test.UserTestThroughPropertiesFile - ***************User Info Updated**********************
+14:33:45.474 [main] INFO  api.test.UserTestThroughPropertiesFile - ***************Deleting User**********************
+14:33:46.628 [main] INFO  api.test.UserTestThroughPropertiesFile - ***************User Deleted**********************
+14:34:22.892 [main] INFO  api.test.UserTestThroughPropertiesFile - ***************Creating User**********************
+14:34:24.627 [main] INFO  api.test.UserTestThroughPropertiesFile - ***************User Created**********************
+14:34:24.631 [main] INFO  api.test.UserTestThroughPropertiesFile - ***************Reading User Info**********************
+14:34:25.768 [main] INFO  api.test.UserTestThroughPropertiesFile - ***************Updating User Info**********************
+14:34:26.889 [main] INFO  api.test.UserTestThroughPropertiesFile - ***************User Info Updated**********************
+14:34:27.939 [main] INFO  api.test.UserTestThroughPropertiesFile - ***************Deleting User**********************
+14:34:29.018 [main] INFO  api.test.UserTestThroughPropertiesFile - ***************User Deleted**********************
